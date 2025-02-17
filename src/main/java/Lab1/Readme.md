@@ -1,4 +1,4 @@
-This is a Calculator program used in COMP3111 Course Lab1
+This is a Calculator program used in COMP3111 Course Lab1  
 I have learnt how to:
   1. Build a java project using IntelliJ
   2. Create a GitHub to collaborate and share with others
